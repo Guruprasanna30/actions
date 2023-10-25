@@ -23,5 +23,5 @@ jobs:
     needs: hello
     steps:
       - name: Good bye
-        run: echo "good bye"
+        run: echo "good bye!!"
         shell: bash
